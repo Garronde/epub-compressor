@@ -1,0 +1,123 @@
+╔═════════════════════════════════════════════════════════════════════════════╗
+║             !! EMERGENCY !! NERV CENTRAL DOGMA !! EMERGENCY !!              ║
+╚═════════════════════════════════════════════════════════════════════════════╝╔═════════════════════════════════════════════════════════════════════════════╗
+║             !! EMERGENCY !! NERV CENTRAL DOGMA !! EMERGENCY !!              ║
+╚═════════════════════════════════════════════════════════════════════════════╝╔═════════════════════════════════════════════════════════════════════════════╗
+║             !! EMERGENCY !! NERV CENTRAL DOGMA !! EMERGENCY !!              ║
+╚═════════════════════════════════════════════════════════════════════════════╝╔═════════════════════════════════════════════════════════════════════════════╗
+║             !! EMERGENCY !! NERV CENTRAL DOGMA !! EMERGENCY !!              ║
+╚═════════════════════════════════════════════════════════════════════════════╝╔═════════════════════════════════════════════════════════════════════════════╗
+║             !! EMERGENCY !! NERV CENTRAL DOGMA !! EMERGENCY !!              ║
+╚═════════════════════════════════════════════════════════════════════════════╝╔═════════════════════════════════════════════════════════════════════════════╗
+║             !! EMERGENCY !! NERV CENTRAL DOGMA !! EMERGENCY !!              ║
+╚═════════════════════════════════════════════════════════════════════════════╝╔═════════════════════════════════════════════════════════════════════════════╗
+║             !! EMERGENCY !! NERV CENTRAL DOGMA !! EMERGENCY !!              ║
+╚═════════════════════════════════════════════════════════════════════════════╝╔═════════════════════════════════════════════════════════════════════════════╗
+║             !! EMERGENCY !! NERV CENTRAL DOGMA !! EMERGENCY !!              ║
+╚═════════════════════════════════════════════════════════════════════════════╝╔═════════════════════════════════════════════════════════════════════════════╗
+║             !! EMERGENCY !! NERV CENTRAL DOGMA !! EMERGENCY !!              ║
+╚═════════════════════════════════════════════════════════════════════════════╝╔═════════════════════════════════════════════════════════════════════════════╗
+║             !! EMERGENCY !! NERV CENTRAL DOGMA !! EMERGENCY !!              ║
+╚═════════════════════════════════════════════════════════════════════════════╝╔═════════════════════════════════════════════════════════════════════════════╗
+║             !! EMERGENCY !! NERV CENTRAL DOGMA !! EMERGENCY !!              ║
+╚═════════════════════════════════════════════════════════════════════════════╝╔═════════════════════════════════════════════════════════════════════════════╗
+║             !! EMERGENCY !! NERV CENTRAL DOGMA !! EMERGENCY !!              ║
+╚═════════════════════════════════════════════════════════════════════════════╝┌───────────────────────────  MAGI CORE TELEMETRY  ───────────────────────────┐
+│ [10:41-889] [  SYS_INIT] BOOTSTRAP SEQUENCE INITIATED.......... QT-94V7     │
+│ [19:44-244] [ MEM_ALLOC] NEURAL MAP DUMP [0x7F4E0000-0x7FFFFFFF] AD-23L3    │
+│ [00:26-394] [ MAGI_LINK] CONNECTING TO MAGI-01 SUPERCOMPUTER.... NN-48R7    │
+│ [15:34-964] [  MELCHIOR] LINK OK  [0x7F4E12C8]  CEREBRUM        JC-29G1     │
+│ [12:21-984] [ BALTHASAR] LINK OK  [0x7F4E13F0]  CEREBELLUM      EW-33X4     │
+│ [07:16-900] [    CASPAR] LINK OK  [0x7F4E1518]  CALLOSUM        WB-55W4     │
+│ [02:44-230] [   LCL_SYS] L.C.L. PURITY: 99.9999989%  FLOW: ON   ZO-85Q4     │
+│ [19:42-997] [  AT_FIELD] A.T. FIELD: 1.2e-4 V/m  PATTERN BLUE   IV-60A0     │
+│ [16:59-440] [      SYNC] SYNC RATIO: 400.0%  [OVERLIMIT ACTIVE]  SW-22Z4    │
+│ [02:54-934] [  SECURITY] MAGI OVERRIDE ENABLED  LEVEL: AAA       GF-78T7    │
+│                                                                             │
+│ 5D 66 36 4D 11 22 60 63 1A 14 A7 15 99 7F 7E 9B F8 D9 4C 55 C4 15 37        │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘┌───────────────────────────  MAGI CORE TELEMETRY  ───────────────────────────┐
+│ [10:41-889] [  SYS_INIT] BOOTSTRAP SEQUENCE INITIATED.......... QT-94V7     │
+│ [19:44-244] [ MEM_ALLOC] NEURAL MAP DUMP [0x7F4E0000-0x7FFFFFFF] AD-23L3    │
+│ [00:26-394] [ MAGI_LINK] CONNECTING TO MAGI-01 SUPERCOMPUTER.... NN-48R7    │
+│ [15:34-964] [  MELCHIOR] LINK OK  [0x7F4E12C8]  CEREBRUM        JC-29G1     │
+│ [12:21-984] [ BALTHASAR] LINK OK  [0x7F4E13F0]  CEREBELLUM      EW-33X4     │
+│ [07:16-900] [    CASPAR] LINK OK  [0x7F4E1518]  CALLOSUM        WB-55W4     │
+│ [02:44-230] [   LCL_SYS] L.C.L. PURITY: 99.9999989%  FLOW: ON   ZO-85Q4     │
+│ [19:42-997] [  AT_FIELD] A.T. FIELD: 1.2e-4 V/m  PATTERN BLUE   IV-60A0     │
+│ [16:59-440] [      SYNC] SYNC RATIO: 400.0%  [OVERLIMIT ACTIVE]  SW-22Z4    │
+│ [02:54-934] [  SECURITY] MAGI OVERRIDE ENABLED  LEVEL: AAA       GF-78T7    │
+│                                                                             │
+│ 5D 66 36 4D 11 22 60 63 1A 14 A7 15 99 7F 7E 9B F8 D9 4C 55 C4 15 37        │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘┌───────────────────────────  MAGI CORE TELEMETRY  ───────────────────────────┐
+│ [10:41-889] [  SYS_INIT] BOOTSTRAP SEQUENCE INITIATED.......... QT-94V7     │
+│ [19:44-244] [ MEM_ALLOC] NEURAL MAP DUMP [0x7F4E0000-0x7FFFFFFF] AD-23L3    │
+│ [00:26-394] [ MAGI_LINK] CONNECTING TO MAGI-01 SUPERCOMPUTER.... NN-48R7    │
+│ [15:34-964] [  MELCHIOR] LINK OK  [0x7F4E12C8]  CEREBRUM        JC-29G1     │
+│ [12:21-984] [ BALTHASAR] LINK OK  [0x7F4E13F0]  CEREBELLUM      EW-33X4     │
+│ [07:16-900] [    CASPAR] LINK OK  [0x7F4E1518]  CALLOSUM        WB-55W4     │
+│ [02:44-230] [   LCL_SYS] L.C.L. PURITY: 99.9999989%  FLOW: ON   ZO-85Q4     │
+│ [19:42-997] [  AT_FIELD] A.T. FIELD: 1.2e-4 V/m  PATTERN BLUE   IV-60A0     │
+│ [16:59-440] [      SYNC] SYNC RATIO: 400.0%  [OVERLIMIT ACTIVE]  SW-22Z4    │
+│ [02:54-934] [  SECURITY] MAGI OVERRIDE ENABLED  LEVEL: AAA       GF-78T7    │
+│                                                                             │
+│ 5D 66 36 4D 11 22 60 63 1A 14 A7 15 99 7F 7E 9B F8 D9 4C 55 C4 15 37        │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘┌───────────────────────────  MAGI CORE TELEMETRY  ───────────────────────────┐
+│ [10:41-889] [  SYS_INIT] BOOTSTRAP SEQUENCE INITIATED.......... QT-94V7     │
+│ [19:44-244] [ MEM_ALLOC] NEURAL MAP DUMP [0x7F4E0000-0x7FFFFFFF] AD-23L3    │
+│ [00:26-394] [ MAGI_LINK] CONNECTING TO MAGI-01 SUPERCOMPUTER.... NN-48R7    │
+│ [15:34-964] [  MELCHIOR] LINK OK  [0x7F4E12C8]  CEREBRUM        JC-29G1     │
+│ [12:21-984] [ BALTHASAR] LINK OK  [0x7F4E13F0]  CEREBELLUM      EW-33X4     │
+│ [07:16-900] [    CASPAR] LINK OK  [0x7F4E1518]  CALLOSUM        WB-55W4     │
+│ [02:44-230] [   LCL_SYS] L.C.L. PURITY: 99.9999989%  FLOW: ON   ZO-85Q4     │
+│ [19:42-997] [  AT_FIELD] A.T. FIELD: 1.2e-4 V/m  PATTERN BLUE   IV-60A0     │
+│ [16:59-440] [      SYNC] SYNC RATIO: 400.0%  [OVERLIMIT ACTIVE]  SW-22Z4    │
+│ [02:54-934] [  SECURITY] MAGI OVERRIDE ENABLED  LEVEL: AAA       GF-78T7    │
+│                                                                             │
+│ 5D 66 36 4D 11 22 60 63 1A 14 A7 15 99 7F 7E 9B F8 D9 4C 55 C4 15 37        │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘┌───────────────────────────  MAGI CORE TELEMETRY  ───────────────────────────┐
+│ [10:41-889] [  SYS_INIT] BOOTSTRAP SEQUENCE INITIATED.......... QT-94V7     │
+│ [19:44-244] [ MEM_ALLOC] NEURAL MAP DUMP [0x7F4E0000-0x7FFFFFFF] AD-23L3    │
+│ [00:26-394] [ MAGI_LINK] CONNECTING TO MAGI-01 SUPERCOMPUTER.... NN-48R7    │
+│ [15:34-964] [  MELCHIOR] LINK OK  [0x7F4E12C8]  CEREBRUM        JC-29G1     │
+│ [12:21-984] [ BALTHASAR] LINK OK  [0x7F4E13F0]  CEREBELLUM      EW-33X4     │
+│ [07:16-900] [    CASPAR] LINK OK  [0x7F4E1518]  CALLOSUM        WB-55W4     │
+│ [02:44-230] [   LCL_SYS] L.C.L. PURITY: 99.9999989%  FLOW: ON   ZO-85Q4     │
+│ [19:42-997] [  AT_FIELD] A.T. FIELD: 1.2e-4 V/m  PATTERN BLUE   IV-60A0     │
+│ [16:59-440] [      SYNC] SYNC RATIO: 400.0%  [OVERLIMIT ACTIVE]  SW-22Z4    │
+│ [02:54-934] [  SECURITY] MAGI OVERRIDE ENABLED  LEVEL: AAA       GF-78T7    │
+│                                                                             │
+│ 5D 66 36 4D 11 22 60 63 1A 14 A7 15 99 7F 7E 9B F8 D9 4C 55 C4 15 37        │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘┌───────────────────────────  MAGI CORE TELEMETRY  ───────────────────────────┐
+│ [10:41-889] [  SYS_INIT] BOOTSTRAP SEQUENCE INITIATED.......... QT-94V7     │
+│ [19:44-244] [ MEM_ALLOC] NEURAL MAP DUMP [0x7F4E0000-0x7FFFFFFF] AD-23L3    │
+│ [00:26-394] [ MAGI_LINK] CONNECTING TO MAGI-01 SUPERCOMPUTER.... NN-48R7    │
+│ [15:34-964] [  MELCHIOR] LINK OK  [0x7F4E12C8]  CEREBRUM        JC-29G1     │
+│ [12:21-984] [ BALTHASAR] LINK OK  [0x7F4E13F0]  CEREBELLUM      EW-33X4     │
+│ [07:16-900] [    CASPAR] LINK OK  [0x7F4E1518]  CALLOSUM        WB-55W4     │
+│ [02:44-230] [   LCL_SYS] L.C.L. PURITY: 99.9999989%  FLOW: ON   ZO-85Q4     │
+│ [19:42-997] [  AT_FIELD] A.T. FIELD: 1.2e-4 V/m  PATTERN BLUE   IV-60A0     │
+│ [16:59-440] [      SYNC] SYNC RATIO: 400.0%  [OVERLIMIT ACTIVE]  SW-22Z4    │
+│ [02:54-934] [  SECURITY] MAGI OVERRIDE ENABLED  LEVEL: AAA       GF-78T7    │
+│                                                                             │
+│ 5D 66 36 4D 11 22 60 63 1A 14 A7 15 99 7F 7E 9B F8 D9 4C 55 C4 15 37        │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘┌───────────────────────────  MAGI CORE TELEMETRY  ───────────────────────────┐
+│ [10:41-889] [  SYS_INIT] BOOTSTRAP SEQUENCE INITIATED.......... QT-94V7     │
+│ [19:44-244] [ MEM_ALLOC] NEURAL MAP DUMP [0x7F4E0000-0x7FFFFFFF] AD-23L3    │
+│ [00:26-394] [ MAGI_LINK] CONNECTING TO MAGI-01 SUPERCOMPUTER.... NN-48R7    │
+│ [15:34-964] [  MELCHIOR] LINK OK  [0x7F4E12C8]  CEREBRUM        JC-29G1     │
+│ [12:21-984] [ BALTHASAR] LINK OK  [0x7F4E13F0]  CEREBELLUM      EW-33X4     │
+│ [07:16-900] [    CASPAR] LINK OK  [0x7F4E1518]  CALLOSUM        WB-55W4     │
+│ [02:44-230] [   LCL_SYS] L.C.L. PURITY: 99.9999989%  FLOW: ON   ZO-85Q4     │
+│ [19:42-997] [  AT_FIELD] A.T. FIELD: 1.2e-4 V/m  PATTERN BLUE   IV-60A0     │
+│ [16:59-440] [      SYNC] SYNC RATIO: 400.0%  [OVERLIMIT ACTIVE]  SW-22Z4    │
+│ [02:54-934] [  SECURITY] MAGI OVERRIDE ENABLED  LEVEL: AAA       GF-78T7    │
+│                                                                             │
+│ 5D 66 36 4D 11 22 60 63 1A 14 A7 15 99 7F 7E 9B F8 D9 4C 55 C4 15 37        │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘

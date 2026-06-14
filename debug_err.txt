@@ -1,0 +1,6 @@
+object address  : 0000012C416821F0
+object refcount : 3
+object type     : 00007FFCA223AFE0
+object type name: AttributeError
+object repr     : AttributeError("'NoneType' object has no attribute 'strip'")
+lost sys.stderr

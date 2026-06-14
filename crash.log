@@ -1,0 +1,57 @@
+CRASH: <class 'AttributeError'>
+  File "C:\Users\garro\AppData\Local\Programs\Python\Python313\Lib\threading.py", line 1041, in _bootstrap_inner
+    self.run()
+    ~~~~~~~~^^
+  File "C:\Users\garro\AppData\Local\Programs\Python\Python313\Lib\site-packages\rich\live.py", line 38, in run
+    self.live.refresh()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\garro\AppData\Local\Programs\Python\Python313\Lib\site-packages\rich\live.py", line 271, in refresh
+    self.console.print(Control())
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\garro\AppData\Local\Programs\Python\Python313\Lib\site-packages\rich\console.py", line 1731, in print
+    extend(render(renderable, render_options))
+    ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\garro\AppData\Local\Programs\Python\Python313\Lib\site-packages\rich\console.py", line 1339, in render
+    for render_output in iter_render:
+                         ^^^^^^^^^^^
+  File "C:\Users\garro\AppData\Local\Programs\Python\Python313\Lib\site-packages\rich\live_render.py", line 91, in __rich_console__
+    lines = console.render_lines(renderable, options, style=style, pad=False)
+  File "C:\Users\garro\AppData\Local\Programs\Python\Python313\Lib\site-packages\rich\console.py", line 1379, in render_lines
+    lines = list(
+        islice(
+    ...<9 lines>...
+        )
+    )
+  File "C:\Users\garro\AppData\Local\Programs\Python\Python313\Lib\site-packages\rich\segment.py", line 333, in split_and_crop_lines
+    for segment in segments:
+                   ^^^^^^^^
+  File "C:\Users\garro\AppData\Local\Programs\Python\Python313\Lib\site-packages\rich\console.py", line 1343, in render
+    yield from self.render(render_output, _options)
+  File "C:\Users\garro\AppData\Local\Programs\Python\Python313\Lib\site-packages\rich\console.py", line 1339, in render
+    for render_output in iter_render:
+                         ^^^^^^^^^^^
+  File "C:\Users\garro\AppData\Local\Programs\Python\Python313\Lib\site-packages\rich\layout.py", line 401, in __rich_console__
+    render_map = self.render(console, options.update_dimensions(width, height))
+  File "C:\Users\garro\AppData\Local\Programs\Python\Python313\Lib\site-packages\rich\layout.py", line 389, in render
+    lines = render_lines(
+        layout.renderable, update_dimensions(region.width, region.height)
+    )
+  File "C:\Users\garro\AppData\Local\Programs\Python\Python313\Lib\site-packages\rich\console.py", line 1379, in render_lines
+    lines = list(
+        islice(
+    ...<9 lines>...
+        )
+    )
+  File "C:\Users\garro\AppData\Local\Programs\Python\Python313\Lib\site-packages\rich\segment.py", line 333, in split_and_crop_lines
+    for segment in segments:
+                   ^^^^^^^^
+  File "C:\Users\garro\AppData\Local\Programs\Python\Python313\Lib\site-packages\rich\console.py", line 1339, in render
+    for render_output in iter_render:
+                         ^^^^^^^^^^^
+  File "C:\Users\garro\AppData\Local\Programs\Python\Python313\Lib\site-packages\rich\panel.py", line 148, in __rich_console__
+    style = console.get_style(self.style)
+  File "C:\Users\garro\AppData\Local\Programs\Python\Python313\Lib\site-packages\rich\console.py", line 1491, in get_style
+    style = Style.parse(name)
+  File "C:\Users\garro\AppData\Local\Programs\Python\Python313\Lib\site-packages\rich\style.py", line 510, in parse
+    if style_definition.strip() == "none" or not style_definition:
+       ^^^^^^^^^^^^^^^^^^^^^^

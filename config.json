@@ -1,0 +1,13 @@
+{
+    "source_dir": "D:\\CalibreLibrary",
+    "destination_dir": "D:\\CalibreLibraryCmp",
+    "theme": "plain",
+    "compression": {
+        "target_size_ratio": 0.10,
+        "jpeg_quality_min": 10,
+        "jpeg_quality_max": 85,
+        "max_width": 1200,
+        "max_height": 1600,
+        "convert_png_to_jpeg": true
+    }
+}
