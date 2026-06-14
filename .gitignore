@@ -1,0 +1,26 @@
+# Environnement virtuel Python
+venv/
+.venv/
+
+# Dossiers d'images (on conserve les dossiers mais on ignore leur contenu)
+input/*
+!input/.gitkeep
+output/*
+!output/.gitkeep
+temp_preview/*
+!temp_preview/.gitkeep
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configuration des éditeurs de code
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
